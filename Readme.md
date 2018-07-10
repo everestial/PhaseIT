@@ -29,5 +29,9 @@ Q/A: What kind of genome is this tools targeted to?
 phaseIT is largely suitable for emerging model system that have reference genome but do not have large number of genotyped individuals. Plus, phaseIT
 provides the benefit of running controlled and recursive phaseExtension, there by providing a chance to improve and regularly check the phase quality checks.
 Additionally, it reduces the traditional burden of preparing an inbred line.
+
+<br>
    
-  
+### To be continued .......
+.............................
+

@@ -1,3 +1,3 @@
 
-    h, \overline{h} = \begin{cases}\left( h_{1}h_{2}\right) ,\left( \overline {h_{1}},\overline {h_{2}}\right) ^{\longrightarrow with likelihood (L{1}) }\ \\left( h{1}\overline {h_{2}}\right) ,\left( \overline {h_{1}}h_{2}\right) ^{\longrightarrow with likelihood (L{_2}) }\end{cases}
+  h, \overline{h} = <p align="center"><img src="/LatexSourceCodes/tex/5a4e161d41edb918dbb55a6dd9b5382e.svg?invert_in_darkmode&sanitize=true" align=middle width=271.6148622pt height=51.393472349999996pt/></p>
 

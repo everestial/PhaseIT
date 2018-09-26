@@ -6,6 +6,11 @@ L_{2}=\prod ^{2} _{k=1\neq l}\ \prod^{m} _{i=1}\ \prod^{n} _{j=1} \left[ \dfrac 
 
 \Build a markov chain diagram for transition matrix 
 
+\documentclass{standalone}
+
+\usepackage{tikz}
+\usetikzlibrary{automata, positioning}
+
 \begin{document}
     \begin{tikzpicture}[font=\sffamily]
 
@@ -65,6 +70,4 @@ L_{2}=\prod ^{2} _{k=1\neq l}\ \prod^{m} _{i=1}\ \prod^{n} _{j=1} \left[ \dfrac 
             (C) edge[loop below, draw=cyan, opacity=0.4]  node {\color{cyan} \textbf{0}} (C);
     \end{tikzpicture}
 \end{document}
-
-
 

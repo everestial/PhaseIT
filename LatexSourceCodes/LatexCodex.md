@@ -11,9 +11,9 @@
 
 \given two consecutive haplotype,
 
-\Block 1:  H_{1} = \left\{ h_{1},\overline {h_{1}}\right\}
+Block 1:  \H_{1} = \left\{ h_{1},\overline {h_{1}}\right\}
 
-\Block 2:  H_{2} = \left\{ h_{2},\overline {h_{2}}\right\}
+Block 2:  \H_{2} = \left\{ h_{2},\overline {h_{2}}\right\}
 
 \can be,
 

@@ -1,4 +1,4 @@
 
 
-\overline{h}=\begin{cases}\left( h_{1}h_{2}\right) ,\left( \overline {h_{1}},\overline {h_{2}}\right) ^{\longrightarrow with likelihood (L{_1}) }\\ \left( h_{1}\overline {h_{2}}\right) ,\left( \overline {h_{1}}h_{2}\right) ^{\longrightarrow with likelihood (L{_2}) }\end{cases}
+\overline{h} = \begin{cases}\left( h_{1}h_{2}\right) ,\left( \overline {h_{1}},\overline {h_{2}}\right) ^{\longrightarrow with likelihood (L{_1}) }\\ \left( h_{1}\overline {h_{2}}\right) ,\left( \overline {h_{1}}h_{2}\right) ^{\longrightarrow with likelihood (L{_2}) }\end{cases}
 

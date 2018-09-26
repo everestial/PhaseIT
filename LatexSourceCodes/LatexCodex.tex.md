@@ -1,1 +1,1 @@
-k = \begin{cases}\left\{ h_{1}h_{2},\overline {h_{1}}\overline {h_{2}}\right\} ^{\nearrow parallel-configuration }_{OR}\\ \left\{ h_{1}\overline {h_{2}},\overline {h_{1}}h_{2}\right\} ^{\searrow alternate-configuration}\end{cases}
+$$ k = \begin{cases}\left\{ h_{1}h_{2},\overline {h_{1}}\overline {h_{2}}\right\} ^{\nearrow parallel-configuration }_{OR}\\ \left\{ h_{1}\overline {h_{2}},\overline {h_{1}}h_{2}\right\} ^{\searrow alternate-configuration}\end{cases} $$

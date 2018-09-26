@@ -1,4 +1,3 @@
 
-
-\overline{h} = <p align="center"><img src="/LatexSourceCodes/tex/c99e1abb34d1b88985b5188d7369eca3.svg?invert_in_darkmode&sanitize=true" align=middle width=258.57234974999994pt height=51.393472349999996pt/></p>
+h, \overline{h} = <p align="center"><img src="/LatexSourceCodes/tex/5a4e161d41edb918dbb55a6dd9b5382e.svg?invert_in_darkmode&sanitize=true" align=middle width=271.6148622pt height=51.393472349999996pt/></p>
 

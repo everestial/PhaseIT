@@ -1,34 +1,8 @@
 $$ k = \begin{cases}\left\{ h_{1}h_{2},\overline {h_{1}}\overline {h_{2}}\right\} ^{\nearrow parallel-configuration }_{OR}\\ \left\{ h_{1}\overline {h_{2}},\overline {h_{1}}h_{2}\right\} ^{\searrow alternate-configuration}\end{cases} $$
 
-$$
-% A Venn diagram with PDF blending
-% Author: Stefan Kottwitz
-% https://www.packtpub.com/hardware-and-creative/latex-cookbook
-\documentclass[border=10pt]{standalone} 
-%%%<
-\usepackage{verbatim}
-%%%>
-\begin{comment}
-:Title: A Venn diagram with PDF blending
-:Tags: Diagrams;Cookbook
-:Author: Stefan Kottwitz
-:Slug: venn
+$$ "z"\ = \ \left\{ h,\overline {h}\right\} $$
 
-PDF blend mode requires TikZ version 3.0 or above.
-\end{comment}
-\usepackage{tikz}
-\begin{document}
-\begin{tikzpicture}
-  \begin{scope}[blend group = soft light]
-    \fill[red!30!white]   ( 90:1.2) circle (2);
-    \fill[green!30!white] (210:1.2) circle (2);
-    \fill[blue!30!white]  (330:1.2) circle (2);
-  \end{scope}
-  \node at ( 90:2)    {Typography};
-  \node at ( 210:2)   {Design};
-  \node at ( 330:2)   {Coding};
-  \node [font=\Large] {\LaTeX};
-\end{tikzpicture}
-\end{document}
-$$
+$$ CW_{hap}=\left\{ H_{1}\right\} \left\{ H_{2}\right\} \ldots \left\{ H_{z}\right\} $$
+
+$$ CW_{hap}=\left\{\begin{aligned}\overline {h_{1}}\\ h_{1}\end{aligned}\right\} \left\{\begin{aligned}\overline {h_{2}}\\ h_{2}\end{aligned}\right\} \ldots \left\{\begin{aligned}\overline {h_{z}}\\ h_{z}\end{aligned}\right\} $$
 

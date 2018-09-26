@@ -5,7 +5,10 @@
 
 \Build a markov chain diagram for transition matrix 
 
+\documentclass{standalone}
+
+\usepackage{tikz}
+\usetikzlibrary{automata, positioning}
+
 <p align="center"><img src="/LatexSourceCodes/tex/73710830f6ba3f119934803847537071.svg" align=middle width=711.0926625pt height=454.24661699999996pt/></p>
-
-
 

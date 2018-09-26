@@ -9,13 +9,13 @@
 \The most likely haplotype state 
 \H = \left\{ h,\overline {h}\right\} 
 
-\given two consecutive haplotype,
+\given two consecutive haplotype
 
-Block 1:  \H_{1} = \left\{ h_{1},\overline {h_{1}}\right\}
+Block 1:  H_{1} = \left\{ h_{1},\overline {h_{1}}\right\}
 
-Block 2:  \H_{2} = \left\{ h_{2},\overline {h_{2}}\right\}
+Block 2:  H_{2} = \left\{ h_{2},\overline {h_{2}}\right\}
 
-\can be,
+\can be
 
 \H=<p align="center"><img src="/LatexSourceCodes/tex/52fe8b868ff9b195bc02621bc33d4afb.svg?invert_in_darkmode&sanitize=true" align=middle width=107.10836564999998pt height=49.315569599999996pt/></p>
 
